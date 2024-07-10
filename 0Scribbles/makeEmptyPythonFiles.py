@@ -9,7 +9,7 @@ while True:
 path = r'C:\Users\ezged\Documents\GitHub\100DaysOfCodeChallenge\0Scribbles'
 
 
-for file in range(0v, 100):	#runs 100 times
+for file in range(0, 100):	#runs 100 times
 	# Creating a file at specified folder
 	# join directory and file path
 	file_name = "scribble"+str(file)+".py"
